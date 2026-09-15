@@ -1,4 +1,4 @@
-# SpeedyRentals 🚗🏍️
+# SpeedyRentals
 
 > **Scalable Full-Stack Car & Bike Rental System Built with the MERN Stack**
 
@@ -12,7 +12,7 @@ SpeedyRentals is a full-stack web application designed to streamline vehicle ren
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Real-Time Fleet Management:** Live tracking of vehicle availability, pricing tiers, and active rental status.
 * **Session & User Auth:** Secure authentication middleware utilizing JWT for session persistence.
@@ -22,7 +22,7 @@ SpeedyRentals is a full-stack web application designed to streamline vehicle ren
 
 ---
 
-## 🏗️ Repository Architecture & File Structure
+## Repository Architecture & File Structure
 
 ```text
 Rental-system-main/
